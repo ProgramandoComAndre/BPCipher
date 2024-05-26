@@ -1,0 +1,139 @@
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Codigo morse\numero3.mp3
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Codigo morse\Morse Code Alphabet A Alpha.mp3
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Codigo morse\Morse Code Alphabet B Bravo.mp3
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Codigo morse\Morse Code Alphabet C Charlie.mp3
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Codigo morse\Morse Code Alphabet D Delta.mp3
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Codigo morse\Morse Code Alphabet E Echo.mp3
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Codigo morse\Morse Code Alphabet F Foxtrot.mp3
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Codigo morse\Morse Code Alphabet G Golf.mp3
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Codigo morse\Morse Code Alphabet H Hotel.mp3
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Codigo morse\Morse Code Alphabet I India.mp3
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Codigo morse\Morse Code Alphabet J Juliet.mp3
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Codigo morse\Morse Code Alphabet K Kilo.mp3
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Codigo morse\Morse Code Alphabet L Lima.mp3
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Codigo morse\Morse Code Alphabet M Mike.mp3
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Codigo morse\Morse Code Alphabet N November.mp3
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Codigo morse\Morse Code Alphabet O Oscar.mp3
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Codigo morse\Morse Code Alphabet P Papa.mp3
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Codigo morse\Morse Code Alphabet Q Quebec.mp3
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Codigo morse\Morse Code Alphabet R Romeo.mp3
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Codigo morse\Morse Code Alphabet S Sierra.mp3
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Codigo morse\Morse Code Alphabet T Tango.mp3
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Codigo morse\Morse Code Alphabet U Uniform.mp3
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Codigo morse\Morse Code Alphabet V Victor.mp3
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Codigo morse\Morse Code Alphabet W Whiskey.mp3
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Codigo morse\Morse Code Alphabet X Xray.mp3
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Codigo morse\Morse Code Alphabet Y Yankee.mp3
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Codigo morse\Morse Code Alphabet Z Zulu.mp3
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Codigo morse\numero0.mp3
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Codigo morse\numero1.mp3
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Codigo morse\numero2.mp3
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Codigo morse\numero4.mp3
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Codigo morse\numero5.mp3
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Codigo morse\numero6.mp3
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Codigo morse\numero7.mp3
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Codigo morse\numero8.mp3
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Codigo morse\numero9.mp3
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Dicionario\Alfabeto_fonetico.dat
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Fontes\codigochines.ttf
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Fontes\braille-falso.ttf
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Dicionario\Codigo Chines\a.png
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Dicionario\Codigo Chines\b.png
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Dicionario\Codigo Chines\c.png
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Dicionario\Codigo Chines\d.png
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Dicionario\Codigo Chines\e.png
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Dicionario\Codigo Chines\f.png
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Dicionario\Codigo Chines\g.png
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Dicionario\Codigo Chines\h.png
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Dicionario\Codigo Chines\i.png
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Dicionario\Codigo Chines\j.png
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Dicionario\Codigo Chines\k.png
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Dicionario\Codigo Chines\l.png
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Dicionario\Codigo Chines\m.png
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Dicionario\Codigo Chines\n.png
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Dicionario\Codigo Chines\o.png
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Dicionario\Codigo Chines\p.png
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Dicionario\Codigo Chines\q.png
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Dicionario\Codigo Chines\r.png
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Dicionario\Codigo Chines\s.png
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Dicionario\Codigo Chines\t.png
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Dicionario\Codigo Chines\u.png
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Dicionario\Codigo Chines\v.png
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Dicionario\Codigo Chines\w.png
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Dicionario\Codigo Chines\x.png
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Dicionario\Codigo Chines\y.png
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Dicionario\Codigo Chines\z.png
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Imagens\ak.png
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Imagens\al.png
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Imagens\am.png
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Imagens\an.png
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Imagens\ana1.png
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Imagens\anb2.png
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Imagens\anc3.png
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Imagens\and4.png
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Imagens\ane5.png
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Imagens\anf6.png
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Imagens\ang7.png
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Imagens\anh8.png
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Imagens\ani9.png
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Imagens\anj0.png
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Imagens\anular.PNG
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Imagens\ao.png
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Imagens\ap.png
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Imagens\aq.png
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Imagens\ar.png
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Imagens\as.png
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Imagens\at.png
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Imagens\au.png
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Imagens\av.png
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Imagens\aw.png
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Imagens\ax.png
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Imagens\ay.png
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Imagens\az.PNG
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Imagens\Codigo angular\a.PNG
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Imagens\Codigo angular\b.PNG
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Imagens\Codigo angular\c.PNG
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Imagens\Codigo angular\d.PNG
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Imagens\Codigo angular\e.PNG
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Imagens\Codigo angular\f.PNG
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Imagens\Codigo angular\g.PNG
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Imagens\Codigo angular\h.PNG
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Imagens\Codigo angular\i.PNG
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Imagens\Codigo angular\j.PNG
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Imagens\Codigo angular\k.PNG
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Imagens\Codigo angular\l.PNG
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Imagens\Codigo angular\m.PNG
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Imagens\Codigo angular\n.PNG
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Imagens\Codigo angular\o.PNG
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Imagens\Codigo angular\p.PNG
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Imagens\Codigo angular\q.PNG
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Imagens\Codigo angular\r.PNG
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Imagens\Codigo angular\s.PNG
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Imagens\Codigo angular\t.PNG
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Imagens\Codigo angular\u.PNG
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Imagens\Codigo angular\v.PNG
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Imagens\Codigo angular\w.PNG
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Imagens\Codigo angular\x.PNG
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Imagens\Codigo angular\y.PNG
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Imagens\Codigo angular\z.PNG
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Imagens\erro_atencao.PNG
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Imagens\fim da palavra.PNG
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Imagens\letras.PNG
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Imagens\numeros.PNG
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Cifras.exe.config
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Cifras.exe
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Cifras.pdb
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\Interop.WMPLib.dll
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\bin\Release\AxInterop.WMPLib.dll
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\obj\Release\Cifras.csprojAssemblyReference.cache
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\obj\Release\Interop.WMPLib.dll
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\obj\Release\AxInterop.WMPLib.dll
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\obj\Release\Cifras.csproj.ResolveComReference.cache
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\obj\Release\Cifras.Form1.resources
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\obj\Release\Cifras.Line.resources
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\obj\Release\Cifras.Properties.Resources.resources
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\obj\Release\Cifras.Teclado_Angular.resources
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\obj\Release\Cifras.csproj.GenerateResource.cache
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\obj\Release\Cifras.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\obj\Release\Cifras.exe
+C:\Users\andre\OneDrive\Ambiente de Trabalho\Youtube\my-personal-projects\Cifras\obj\Release\Cifras.pdb
